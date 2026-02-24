@@ -1,0 +1,2 @@
+Here is the text in file
+Another line
